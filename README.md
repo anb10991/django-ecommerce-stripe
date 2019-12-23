@@ -28,7 +28,7 @@ to point to the online resources.
 Follow the below instructions to clone this project for Mac (commands will be slightly different for Windows)
 
 1. Go to folder you want to put the cloned project in your terminal & type:
-    `$ git clone https://github.com/anb10991/django-ecommerce-project.git`
+    `$ git clone https://github.com/anb10991/django-ecommerce-stripe.git`
 2. Create & Activate a new Virtual Environment in terminal:
     Create: `$ python3 -m venv ~/virtualenvs/name_of_environment`
     Activate: `$ source ~/virtualenvs/name_of_environment/bin/activate`
